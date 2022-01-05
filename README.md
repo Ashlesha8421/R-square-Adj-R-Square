@@ -6,8 +6,18 @@
 
 ## Formulas for Rsquare &  Adjusted R square
 # 1.R-square
-* R^2 = 1 - SSres / SStot
+* | R^2 = 1 - SSres / SStot |
+  |-------------------------|
  
-- SSres = Sum of Residual or error 
+- |SSres = Sum of Residual or error|
+  |---------------------------------|
 - sum(yi - yi^)2 (Square because we have negative value)
-- 1. Here we found the best fit line
+  
+
+
+* 1.Here we found the best fit line
+
+- | SStot = Sum of average total = sum(Yi - Y^ avg)2 |
+  |---------------------------------------------------|
+
+- 1.Here we found the average of best fit line then find the distance and then do summation.
