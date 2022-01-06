@@ -21,3 +21,11 @@
   |---------------------------------------------------|
 
 - 1.Here we found the average of best fit line then find the distance and then do summation.
+
+## Difference between R2 adj AND R2
+
+| 1. Every time you add a independent variable to a model, the R-square increases, even if the independent variable is insignificant. It never declines. Whereas Adjusted R- squared increases only when independent variable is significant and affects dependept variable. |
+|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 2. Adjusted r-squared value always be less than or equal to r-squared value. |
+ 
+
